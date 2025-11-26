@@ -3,11 +3,10 @@ title: SunSeaSangria Blog
 subtitle: News and Events around the Costa Blanca North
 image: img/574321706_10161311071171642_1967533210444032674_n.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Costa Blanca North – Sun, Sea & Sangria Living
+  text: ¡Bienvenidos, Welcome to the shiny new Sun Sea Sangria – now even easier
+    to stalk all the latest Costa Blanca North gossip, beach secrets and
+    sangría-fueled nonsense.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
