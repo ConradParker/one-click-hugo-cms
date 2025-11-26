@@ -8,11 +8,11 @@ blurb:
     to stalk all the latest Costa Blanca North gossip, beach secrets and
     sangría-fueled nonsense.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Whats it all About?
+  text: >-
+    “Hola! Im Joanne,  living the dream on the Costa Blanca since 2011.
+
+    Whether you own a home here, visit every year, or you’re planning your first trip, Sun Sea Sangría keeps you in the loop with what’s really happening – no corporate fluff, just the good stuff.”
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
