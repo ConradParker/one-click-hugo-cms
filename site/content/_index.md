@@ -1,7 +1,7 @@
 ---
-title: SunSeaSangria Blog
-subtitle: News and Events around the Costa Blanca North
-image: img/574321706_10161311071171642_1967533210444032674_n.jpg
+title: Sun Sea Sangria
+subtitle: Life, Travel & Hidden Gems on the Costa Blanca North
+image: img/428628618_10159321260621642_9131780410242334650_n.jpg
 blurb:
   heading: Costa Blanca North – Sun, Sea & Sangria Living
   text: ¡Bienvenidos, Welcome to the shiny new Sun Sea Sangria – now even easier
