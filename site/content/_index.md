@@ -5,7 +5,7 @@ image: img/574321706_10161311071171642_1967533210444032674_n.jpg
 blurb:
   heading: Costa Blanca North – Sun, Sea & Sangria Living
   text: ¡Bienvenidos, Welcome to the shiny new Sun Sea Sangria – now even easier
-    to stalk all the latest Costa Blanca North gossip, beach secrets and
+    to find all the latest Costa Blanca North gossip, beach secrets and
     sangría-fueled nonsense.
 intro:
   heading: Whats it all About?
