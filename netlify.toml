@@ -1,20 +1,16 @@
-[build.environment]
-  NETLIFY_USE_YARN = "true"
-  YARN_VERSION = "1.22.17"
-
 [build]
-  command = "yarn build"
-  publish = "dist"
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.141.0"
+  DART_SASS_VERSION = "1.77.4"
+
+[context.production.environment]
+  HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "yarn build:preview"
+  command = "hugo -D -F"
 
-[dev]
-  framework = "hugo"
-  targetPort = 3000
-
-[[plugins]]
-  package = "netlify-plugin-cypress"
-
-  [plugins.inputs]
-    record = true
+[context.branch-deploy]
+  command = "hugo -D -F"
