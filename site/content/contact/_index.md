@@ -1,9 +1,9 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact Me
+logo: img/257371731_10157946483576642_5022558324571738190_n.jpg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: 3153 Lynn Avenue, South San Francisco, California 94080
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
