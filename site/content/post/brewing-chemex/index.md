@@ -1,9 +1,16 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: Costa Blanca North
 date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated,
-  time-consuming ordeal, but once you get used to the process, it becomes a
-  soothing ritual that's worth the effort every time.
+description: >-
+  Life on the Costa Blanca North feels like living inside a postcard that never
+  fades. Morning can start with varied café terraces in villages like Altea,
+  Jávea or Moraira serving fresh coffee and tostadas. 
+
+
+  The pace is deliberately unhurried: locals still close shops for siesta, markets burst with fresh vegetables, clothing, pickles and fresh olives. Beaches range from wide sandy curves like those in Denia to hidden turquoise coves tucked beneath pine-covered cliffs in Calpe or Benissa. In summer the sea is bath-warm and so clear you can watch fish dart beneath your feet; in winter you’ll have long empty shores to yourself and mild days perfect for hiking the Montgó mountain or cycling the flat green lanes behind the coast.
+
+
+  People here are a relaxed mix: Spanish families, expats and  retirees walking their dogs at sunrise. Evenings revolve around long dinners of fresh grilled seafood, local Moscatel wine and laughter that spills out from whitewashed squares well past midnight. It’s a place where “mañana” isn’t laziness; it’s permission to enjoy today a little longer. 
 image: blog-chemex.jpg
 ---
 
