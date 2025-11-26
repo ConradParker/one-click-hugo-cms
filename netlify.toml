@@ -1,17 +1,16 @@
 [build]
-  command = "git submodule update --init --recursive && hugo --gc --minify"
+  command = "hugo --gc --minify"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.142.0"
   HUGO_EXTENDED = "true"
-  GIT_LFS_ENABLED = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "git submodule update --init --recursive && hugo -D -F --gc"
+  command = "hugo -D -F --gc"
 
 [context.branch-deploy]
-  command = "git submodule update --init --recursive && hugo -D -F --gc"
+  command = "hugo -D -F --gc"
