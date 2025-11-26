@@ -1,16 +1,15 @@
 [build]
-  command = "hugo"
+  command = "hugo --gc --minify"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.141.0"
-  DART_SASS_VERSION = "1.77.4"
+  HUGO_VERSION = "0.142.0"
 
 [context.production.environment]
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo -D -F"
+  command = "hugo -D -F --gc"
 
 [context.branch-deploy]
-  command = "hugo -D -F"
+  command = "hugo -D -F --gc"
